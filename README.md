@@ -1,2 +1,3 @@
 # tabNews
+
 Recriação TabNews
